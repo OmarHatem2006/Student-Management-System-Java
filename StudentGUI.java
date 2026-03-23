@@ -48,7 +48,7 @@ public class StudentGUI extends JFrame {
 
         // Set up action listeners for each button to handle user clicks and perform operations.
 
-        // 1. إضافة طالب [cite: 22]
+        // 1. Add Student
         b1.addActionListener(e -> {
             try {
                 int id = Integer.parseInt(JOptionPane.showInputDialog("Enter Student ID:"));
@@ -64,7 +64,7 @@ public class StudentGUI extends JFrame {
             } catch (Exception ex) { JOptionPane.showMessageDialog(this, "Invalid ID!"); }
         });
 
-        // 2. إضافة مادة [cite: 23]
+        // 2. Add Subject
         b2.addActionListener(e -> {
             try {
                 int id = Integer.parseInt(JOptionPane.showInputDialog("Enter Student ID:"));
@@ -81,7 +81,7 @@ public class StudentGUI extends JFrame {
             } catch (Exception ex) { JOptionPane.showMessageDialog(this, "Error in input!"); }
         });
 
-        // 3. عرض بيانات الطالب (Student Info) [cite: 24]
+        // 3. Student Information
         b3.addActionListener(e -> {
             try {
                 int id = Integer.parseInt(JOptionPane.showInputDialog("Enter Student ID:"));
@@ -103,7 +103,7 @@ public class StudentGUI extends JFrame {
             catch (Exception ex) { JOptionPane.showMessageDialog(this, "Error showing student info."); }
         });
 
-        // 4. حساب المعدل (Calculate GPA) [cite: 25]
+        // 4. Calculate GPA
         b4.addActionListener(e -> {
             try {
                 int id = Integer.parseInt(JOptionPane.showInputDialog("Enter Student ID:"));
@@ -114,7 +114,7 @@ public class StudentGUI extends JFrame {
             } catch (Exception ex) { }
         });
 
-        // 5. عرض كل الطلاب [cite: 26]
+        // 5. Show all Students
         b5.addActionListener(e -> {
             area.setText("--- All Students ---\n");
             for(Student s : system.getAllStudents()) {
