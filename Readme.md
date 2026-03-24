@@ -60,6 +60,12 @@ $$GPA = \frac{\sum (Grade \times CreditHours)}{\sum CreditHours}$$
 
 ---
 
+### 📺 Project Demo | عرض تجربة المشروع
+You can watch the full demonstration of the system here:
+يمكنك مشاهدة عرض كامل للنظام من هنا:
+
+👉 [Watch Video | مشاهدة الفيديو]([https://drive.google.com/file/d/1rRK2NCUy9ADIIdikI4YmUq5itI-oYJhS/view?usp=sharing])
+
 ## 👥 Team Infinity | فريق إنفينيتي
 
 - University: Burj Al-Arab Technological University
