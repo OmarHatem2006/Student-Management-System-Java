@@ -18,9 +18,9 @@ You can watch a full demonstration of the system and its features through the li
 
 🚀 Key Features | المميزات الأساسية
 
-The system supports all "Big Team" requirements:
+The system supports all Project requirements:
 
-يدعم النظام جميع متطلبات "الفريق الكبير" وتشمل:
+يدعم النظام جميع متطلبات المشروع وتشمل:
 
 - Student Management: Add, search, update, and remove students.
 - (إدارة الطلاب: إضافة، بحث، تحديث، وحذف الطلاب).
