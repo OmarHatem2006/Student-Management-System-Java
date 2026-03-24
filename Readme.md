@@ -6,6 +6,7 @@ This is a comprehensive Java-based desktop application designed for Burj Al-Arab
 
 هذا المشروع عبارة عن تطبيق مكتبي متكامل بلغة الجافا مصمم لجامعة برج العرب التكنولوجية. يتيح النظام للمسؤولين إدارة بيانات الطلاب، المواد الدراسية، وحساب المعدلات التراكمية تلقائياً من خلال واجهة رسومية سهلة الاستخدام.
 
+
 📺 Project Demo | عرض تجربة المشروع
 
 You can watch a full demonstration of the system and its features through the link below:
@@ -13,6 +14,7 @@ You can watch a full demonstration of the system and its features through the li
 يمكنك مشاهدة عرض كامل للنظام والمميزات من خلال الرابط التالي:
 
 👉 https://drive.google.com/file/d/1rRK2NCUy9ADIIdikI4YmUq5itI-oYJhS/view?usp=sharing
+
 
 🚀 Key Features | المميزات الأساسية
 
@@ -42,6 +44,7 @@ The system supports all "Big Team" requirements:
 - Data Structure: ArrayList for dynamic data management.
 - Architecture: Object-Oriented Programming (OOP) with 4 main classes.
 
+
 📂 Project Structure | هيكل المشروع
 
 The project is organized into separate files for better maintainability:
@@ -64,6 +67,7 @@ The system follows the official academic formula provided in the requirements:
 النظام يتبع المعادلة الأكاديمية الرسمية المذكورة في المتطلبات:
 
 $$ GPA = \frac{\sum (Grade \times CreditHours)}{\sum CreditHours} $$
+
 
 🔧 How to Run | كيفية التشغيل
 
