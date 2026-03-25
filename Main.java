@@ -19,7 +19,7 @@ public class Main extends JFrame {
 
         // Create and configure the text area for displaying student information and results.
         area.setEditable(false);
-        area.setFont(new Font("Monospaced", Font.PLAIN, 13));
+        area.setFont(new Font("Monospaced", Font.BOLD, 16));
         add(new JScrollPane(area), BorderLayout.CENTER);
 
         // Create a panel for buttons arranged in a 4x2 grid layout.
